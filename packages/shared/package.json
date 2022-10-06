@@ -1,0 +1,13 @@
+{
+  "name": "@past/shared",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/shared.cjs.js",
+  "module": "dist/shared.esm-bunder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

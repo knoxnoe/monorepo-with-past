@@ -1,0 +1,9 @@
+lockfileVersion: 5.4
+
+importers:
+
+  packages/reactivity:
+    specifiers:
+      '@past/shared': workspace:^1.0.0
+    dependencies:
+      '@past/shared': link:../shared

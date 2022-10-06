@@ -1,0 +1,16 @@
+{
+  "name": "@past/reactivity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/reactivity.cjs.js",
+  "module": "dist/reactivity.esm-bunder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@past/shared": "workspace:^1.0.0"
+  }
+}
